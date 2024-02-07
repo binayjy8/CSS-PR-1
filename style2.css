@@ -4,4 +4,6 @@ div {
     background-color: aquamarine;
     border: 2px solid black;
     margin: 5px;
+    border-radius: 50px;
+    display: inline-block;
 }
